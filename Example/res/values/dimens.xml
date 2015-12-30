@@ -5,4 +5,6 @@
 
     <dimen name="button_margin">8dp</dimen>
     <dimen name="user_management_msg_margin">12dp</dimen>
+    <dimen name="abc_action_bar_default_padding_material">16dp</dimen>
+    <dimen name="citrus_activity_horizontal_margin">16dp</dimen>
 </resources>
